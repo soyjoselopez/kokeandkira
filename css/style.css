@@ -13,18 +13,18 @@ a:visited {
 }
 
 #content {
-  width: 285px;
+  width: 385px;
   height: 241px;
   text-align: center;
   position: fixed;
   top: 50%;
   left: 50%;
-  margin-top: -120px;
-  margin-left: -142px;
+  margin-top: -180px;
+  margin-left: -182px;
 }
 
 .avatar {
-  width: 300px;
+  width: 400px;
 }
 
 .icons {
@@ -162,7 +162,7 @@ a.send:hover {
 h1 {
   margin: 10px 0 0 0;
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 22px;
+  font-size: 32px;
   font-weight: 400;
   text-transform: uppercase;
   color: rgba(0, 0, 0, 0.8);
@@ -172,7 +172,7 @@ h1 {
 
 #content span {
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 14px;
+  font-size: 20px;
   text-transform: uppercase;
   color: rgba(0, 0, 0, 0.3);
   display: block;
